@@ -214,8 +214,9 @@ React Native Awesome 汇集了各类react-native学习资料、工具、组件�
 
 
 ## 工具
-
-### IDE  
+* [moment](https://github.com/moment/moment)：日期时间管理函数
+* [paths-js](https://github.com/andreaferretti/paths-js)：SVG画图函数
+### IDE  
 
 * [Nuclide](https://nuclide.io/)：Nuclide 是 Facebook 推出的一套基于 Atom 的开发工具集。用于开发基于 Hack 的 Web 应用。提供自动完成和 JavaScript 类型检查，内建 React 开发支持，并支持 Facebook 最新的 React Native 库，支持 Facebook 的 Flow JavaScript 类型检查器。
 * [WebStorm](https://www.jetbrains.com/webstorm/)：JetBrains公司出品的用于前端开发的IDE，WebStorm有着JetBrains公司IDE的优良血统，是前端工程师的一个开发神器。另外，AndroidStudio也是基于JetBrains的IDE，这对于习惯了AndroidStudio的开发者来说，WebStorm无疑是一个最佳的选择。
